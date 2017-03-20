@@ -1,7 +1,7 @@
 # Needleman-Wunsch-Algorithm
 A global alignment algorithm used in bioinformatics to align protein or nucleotide sequences.
 
-##Prerequisites
+## Prerequisites
 Matlab
 
 ## Additioal Information:
